@@ -5,15 +5,15 @@
 
 
 
-::  For command line switches, check mass grave[.]dev/command_line_switches
+::  For command line switches, 
 ::  If you want to better understand script, read from MAS separate files version. 
 
 
 
 ::============================================================================
 ::
-::   Homepage: mass grave[.]dev
-::      Email: mas.help@outlook.com
+::   Homepage: cc jadenjvl
+::      
 ::
 ::============================================================================
 
